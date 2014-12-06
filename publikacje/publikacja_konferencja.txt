@@ -3,5 +3,9 @@ Publikacja nr 1
 Tytu³: Publikacja o fizyce.
 Autor: Katarzyna Dymek-Nowak
 
-To jest pierwszy wers.
+1. Agenda
+2. Dane 
+3. Analiza
+4. Wnioski
+5. Bibliografia
 
